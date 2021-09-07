@@ -1,4 +1,5 @@
 # Happy Birthday Jessie!
-
 ![picture](robert-anderson--gDHgEcec6Q-unsplash.jpg)
-This is a repo created to celebrate Jessie Baldwin's birthday
+
+## There is an R script for you on this repo, run it on your R and see what happens! :) 
+

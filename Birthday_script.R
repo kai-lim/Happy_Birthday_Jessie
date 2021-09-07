@@ -1,7 +1,8 @@
 # Dear Jessie,
-# Happy birthday! Please run this code on R.
-# Install the packages if you don't have them:
+# Happy birthday! Here's some birthday code for you to run on R. :)
 
+
+# Install the packages if you don't have them:
 #install.packages("dplyr")
 #install.packages("audio")
 
